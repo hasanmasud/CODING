@@ -28,5 +28,7 @@
     <module>HackerRank-DataStructure</module>
     <module>HackerRank_Databases</module>
     <module>HackerRank_PracticeInterview</module>
+    <module>HackerRank-CrackingTheCodingInterview</module>
+    <module>HackerRank-30DaysOfCodeChallenges</module>
   </modules>
 </project>

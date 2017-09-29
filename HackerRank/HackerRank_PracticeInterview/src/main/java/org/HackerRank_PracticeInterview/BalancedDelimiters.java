@@ -8,6 +8,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * https://www.hackerrank.com/contests/programming-interview-questions/challenges/balanced-delimiters
+ * 
+ * @author masud
+ *
+ */
 public class BalancedDelimiters {
 
 	private static Map<Character, Character> mapchar = new HashMap<>();

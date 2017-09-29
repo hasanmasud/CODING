@@ -8,6 +8,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/contests/programming-interview-questions/challenges/fibonacci-returns
+ * 
+ * @author masud
+ *
+ */
 public class FibonacciReturns {
 
 	public static void main(String[] args) {
