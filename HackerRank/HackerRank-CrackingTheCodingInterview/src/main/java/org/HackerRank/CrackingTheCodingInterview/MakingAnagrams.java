@@ -6,6 +6,12 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
+/**
+ * https://www.hackerrank.com/challenges/ctci-making-anagrams
+ * 
+ * @author masud
+ *
+ */
 public class MakingAnagrams {
 
 	public static int numberNeeded(String first, String second) {
