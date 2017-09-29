@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class TriesContacts {
-
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
@@ -20,7 +19,6 @@ public class TriesContacts {
 		}
 		scan.close();
 	}
-
 }
 
 class TrieNode {
