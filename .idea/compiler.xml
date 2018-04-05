@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HackerRank-30DaysOfCodeChallenges" />
+        <module name="HackerRank-Algorithms" />
+        <module name="HackerRank-CrackingTheCodingInterview" />
+        <module name="HackerRank-DataStructure" />
+        <module name="HackerRank-Java" />
+        <module name="HackerRank_Databases" />
+        <module name="HackerRank_Mathematics" />
+        <module name="HackerRank_PracticeInterview" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="coding" target="1.8" />
+      <module name="HackerRank" target="1.8" />
+      <module name="HackerRank-30DaysOfCodeChallenges" target="1.8" />
+      <module name="HackerRank-Algorithms" target="1.8" />
+      <module name="HackerRank-CrackingTheCodingInterview" target="1.8" />
+      <module name="HackerRank-DataStructure" target="1.8" />
+      <module name="HackerRank-Java" target="1.8" />
+      <module name="HackerRank_Databases" target="1.8" />
+      <module name="HackerRank_Mathematics" target="1.8" />
+      <module name="HackerRank_PracticeInterview" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

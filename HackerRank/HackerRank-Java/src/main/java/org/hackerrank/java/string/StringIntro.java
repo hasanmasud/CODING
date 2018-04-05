@@ -16,7 +16,6 @@ public class StringIntro {
 		String A1 = String.valueOf(A.charAt(0)).toUpperCase() + A.substring(1);
 		String B1 = String.valueOf(B.charAt(0)).toUpperCase() + B.substring(1);
 		System.out.println(A1 + " " + B1);
-
 	}
 
 }

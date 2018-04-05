@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank-30DaysOfCodeChallenges/HackerRank-30DaysOfCodeChallenges.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank-30DaysOfCodeChallenges/HackerRank-30DaysOfCodeChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank-Algorithms/HackerRank-Algorithms.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank-Algorithms/HackerRank-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank-CrackingTheCodingInterview/HackerRank-CrackingTheCodingInterview.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank-CrackingTheCodingInterview/HackerRank-CrackingTheCodingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank-DataStructure/HackerRank-DataStructure.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank-DataStructure/HackerRank-DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank-Java/HackerRank-Java.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank-Java/HackerRank-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank_Databases/HackerRank_Databases.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank_Databases/HackerRank_Databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank_Mathematics/HackerRank_Mathematics.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank_Mathematics/HackerRank_Mathematics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank_PracticeInterview/HackerRank_PracticeInterview.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank_PracticeInterview/HackerRank_PracticeInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding.iml" filepath="$PROJECT_DIR$/coding.iml" />
+    </modules>
+  </component>
+</project>
